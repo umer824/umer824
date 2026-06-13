@@ -89,3 +89,67 @@
   <strong>Thanks for visiting my profile! ✨</strong><br>
   Feel free to explore my repositories and connect with me!
 </div>
+<div align="center">
+<img
+src="https://github-readme-stats.vercel.app/api?username=umerjahangir&show_icons=true&theme=default&hide_border=true&title_color=2563EB&icon_color=0A66C2&text_color=111827&bg_color=ffffff&include_all_commits=true&count_private=true"
+height="175"
+alt="GitHub Stats"
+/>
+ 
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=umerjahangir&theme=default&hide_border=true&ring=2563EB&fire=2563EB&currStreakLabel=2563EB&sideLabels=111827&dates=6B7280"
+height="175"
+alt="GitHub Streak"
+/>
+
+<br/><br/>
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=umerjahangir&theme=default&hide_border=true&layout=compact&title_color=2563EB&text_color=111827&bg_color=ffffff&langs_count=8"
+height="150"
+alt="Top Languages"
+/>
+
+</div>
+<br/>
+<!-- ════════════════  ACTIVITY GRAPH  ═════════════════════ -->
+<div align="center">
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=umerjahangir&theme=minimal&hide_border=true&color=2563EB&line=0A66C2&point=2563EB&area=true&area_color=DBEAFE"
+  width="97%"
+  alt="Activity Graph"
+/>
+</div>
+<br/>
+<!-- ════════════════  TROPHIES  ═══════════════════════════ -->
+🏆  GitHub Trophies
+
+<div align="center">
+<img
+  src="https://github-profile-trophy.vercel.app/?username=umerjahangir&theme=flat&no-frame=true&column=7&margin-w=6&title_color=2563EB&text_color=111827"
+  width="97%"
+  alt="Trophies"
+/>
+</div>
+<br/>
+<!-- ════════════════  SNAKE  ══════════════════════════════ -->
+<div align="center">
+<img
+  src="https://raw.githubusercontent.com/umerjahangir/umerjahangir/output/github-contribution-grid-snake.svg"
+  alt="Snake animation"
+  width="97%"
+/>
+</div>
+<!-- thin bottom rule -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=2563EB&height=3&width=100%" width="100%" />
+<br/>
+<!-- ════════════════  FOOTER  ═════════════════════════════ -->
+<div align="center">
+<strong>Thanks for visiting! 🙌</strong>
+
+<br/>
+<sub>
+  Explore my repos · Open an issue · Or just say hi — always happy to connect.<br/>
+  <em>Built with curiosity, consistency, and a lot of coffee ☕</em>
+</sub>
+</div>
