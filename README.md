@@ -1,12 +1,13 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/umerjahangir/umerjahangir/main/assets/banner.jpg" alt="Umer Jahangir Banner" width="100%" />
+  <img src="file:///C:/Users/UMER/Downloads/Orange%20Strategy%20Photo%20Head%20of%20Marketing%20LinkedIn%20Banner%20(1).png" />
   
   <h1>Hi 👋, I'm Umer Jahangir</h1>
   
   <p>
     <strong>Full Stack Developer</strong> | <strong>Web Designer</strong> | <strong>Graphic Designer</strong> | Lifelong Learner
   </p>
-  
+  <img width="1584" height="396" alt="Orange Strategy Photo Head of Marketing LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/9c411108-0513-4658-bf53-b44e07984a22" />
+
   <p>
     Passionate developer from <strong>Pakistan 🇵🇰</strong> crafting modern, responsive, and user-centric web applications.
   </p>
