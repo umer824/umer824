@@ -12,9 +12,6 @@
     Passionate developer from <strong>Pakistan 🇵🇰</strong> crafting modern, responsive, and user-centric web applications.
   </p>
 
- 
-<img src="https://raw.githubusercontent.com/umerjahangir/umerjahangir/main/assets/banner.jpg" alt="Umer Jahangir — Full Stack Developer" width="100%" />
-
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+%7C+Vue.js+%7C+GraphQL+%7C+REST+APIs;Building+Modern+Web+Experiences;Trained+at+SMIT+%E2%80%94+Karachi%2C+Pakistan+%F0%9F%87%B5%F0%9F%87%B0)](https://git.io/typing-svg)
