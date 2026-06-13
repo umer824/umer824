@@ -1,24 +1,46 @@
 <div align="center">
+  <img src="file:///C:/Users/UMER/Downloads/Orange%20Strategy%20Photo%20Head%20of%20Marketing%20LinkedIn%20Banner%20(1).png" />
+  
+  <h1>Hi 👋, I'm Umer Jahangir</h1>
+  
+  <p>
+    <strong>Full Stack Developer</strong> | <strong>Web Designer</strong> | <strong>Graphic Designer</strong> | Lifelong Learner
+  </p>
+  <img width="1584" height="396" alt="Orange Strategy Photo Head of Marketing LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/9c411108-0513-4658-bf53-b44e07984a22" />
 
-<img src="file:///C:/Users/UMER/Downloads/Orange%20Strategy%20Photo%20Head%20of%20Marketing%20LinkedIn%20Banner%20(1).png" alt="Umer Jahangir — Full Stack Developer" width="100%" />
+  <p>
+    Passionate developer from <strong>Pakistan 🇵🇰</strong> crafting modern, responsive, and user-centric web applications.
+  </p>
+
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+
+<img src="https://raw.githubusercontent.com/umerjahangir/umerjahangir/main/assets/banner.jpg" alt="Umer Jahangir — Full Stack Developer" width="100%" />
 
 <br/>
 
-[![Typing SVG](file:///C:/Users/UMER/Downloads/Orange%20Strategy%20Photo%20Head%20of%20Marketing%20LinkedIn%20Banner%20(1).png)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+%7C+Vue.js+%7C+GraphQL+%7C+REST+APIs;Building+Modern+Web+Experiences;Trained+at+SMIT+%E2%80%94+Karachi%2C+Pakistan+%F0%9F%87%B5%F0%9F%87%B0)](https://git.io/typing-svg)
 
 <br/>
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-  <img src="https://www.linkedin.com/in/umer-jahangir-8b3583328/" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:YOUR_EMAIL">
-  <img src="jahangiru837@gmail.com" />
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://github.com/umerjahangir">
-  <img src="https://github.com/umer824" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://instagram.com/YOUR_INSTAGRAM">
-  <img src="https://www.instagram.com/umermemon_00/" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 <br/><br/>
@@ -29,6 +51,14 @@
 
 ---
 
+## 🚀 About Me
+
+- 🌱 Currently building full-stack applications with the **MERN Stack**
+- 💻 Passionate about clean code, beautiful UI/UX, and solving real-world problems
+- 🎨 Experienced in **Graphic Design**, Logo Design, and Branding
+- 🚀 On a journey to become a professional Full Stack Developer
+- 🎯 Goal: Create impactful digital solutions and contribute to the open-source community
+- 📍 Based in **Karachi, Pakistan**
 ## 👨‍💻 About Me
 
 ```javascript
@@ -49,12 +79,13 @@ const umer = {
 - 🏫 Trained at **SMIT (Saylani Mass IT Training)** — one of Pakistan's largest tech training programs
 - 🚀 Focused on writing maintainable code that solves real-world problems
 - 🤝 Open to **junior / entry-level roles** and freelance collaborations
-- 📬 Reach me: **[jahangiru837@gmail.com](mailto:jahangiru837@gmail.com)**
+- 📬 Reach me: **[your.email@example.com](mailto:your.email@example.com)**
 
 ---
 
 ## 🛠️ Tech Stack
 
+### Frontend
 ### 🎨 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -63,17 +94,21 @@ const umer = {
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
+### Backend
 ### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
+### Databases
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+### Tools & Platforms
 ### 🔧 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -136,6 +171,11 @@ const umer = {
 
 ## 🌱 Currently Learning
 
+- Advanced JavaScript & TypeScript
+- React Ecosystem (Next.js, Redux, Tailwind CSS)
+- Backend Architecture & API Design
+- Database Optimization & System Design
+- Full Stack Application Deployment (Docker, Vercel, AWS)
 | Area | Technologies |
 |------|-------------|
 | 📘 Language Depth | Advanced JavaScript, TypeScript |
@@ -149,6 +189,8 @@ const umer = {
 ## 📊 GitHub Stats
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
 
   <img src="https://github-readme-stats.vercel.app/api?username=umerjahangir&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=umerjahangir&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
@@ -167,6 +209,16 @@ const umer = {
 
 ---
 
+## 💡 Quote
+## 🏆 GitHub Trophies
+
+> "Success comes from continuous learning, consistency, and taking action every day."
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=umerjahangir&theme=tokyonight&no-frame=true&column=7&margin-w=4" width="95%" alt="GitHub Trophies" />
+</div>
+
+---
+
 ## 💬 A Thought I Work By
 
 > *"Junior developers look for solutions. Senior developers look for tradeoffs. I'm learning to see both."*
@@ -178,6 +230,8 @@ const umer = {
 </div>
 
 <div align="center">
+  <strong>Thanks for visiting my profile! ✨</strong><br>
+  Feel free to explore my repositories and connect with me!
   <strong>Thanks for stopping by! 🙌</strong><br/>
   <sub>Feel free to explore my repos, open an issue, or just say hi — I'm always up for a conversation.</sub>
 </div>
