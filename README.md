@@ -174,24 +174,6 @@ const umer = {
 | 🏗️ Architecture | Clean Architecture, System Design, API Design Patterns |
 | 🗃️ Database | Query Optimization, Indexing, Relational + NoSQL |
 | ☁️ DevOps & Deploy | Docker, Vercel, Railway, AWS basics |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
-
-  <img src="https://github-readme-stats.vercel.app/api?username=umerjahangir&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umerjahangir&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
-
-  <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umerjahangir&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="160" alt="Top Languages" />
-
-</div>
-
 <br/>
 
 <div align="center">
