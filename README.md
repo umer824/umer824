@@ -181,17 +181,6 @@ const umer = {
 </div>
 
 ---
-
-## 💡 Quote
-## 🏆 GitHub Trophies
-
-> "Success comes from continuous learning, consistency, and taking action every day."
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=umerjahangir&theme=tokyonight&no-frame=true&column=7&margin-w=4" width="95%" alt="GitHub Trophies" />
-</div>
-
----
-
 ## 💬 A Thought I Work By
 
 > *"Junior developers look for solutions. Senior developers look for tradeoffs. I'm learning to see both."*
