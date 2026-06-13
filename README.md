@@ -4,21 +4,21 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+%7C+Vue.js+%7C+GraphQL+%7C+REST+APIs;Building+Modern+Web+Experiences;Trained+at+SMIT+%E2%80%94+Karachi%2C+Pakistan+%F0%9F%87%B5%F0%9F%87%B0)](https://git.io/typing-svg)
+[![Typing SVG](file:///C:/Users/UMER/Downloads/Orange%20Strategy%20Photo%20Head%20of%20Marketing%20LinkedIn%20Banner%20(1).png)
 
 <br/>
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://www.linkedin.com/in/umer-jahangir-8b3583328/" />
 </a>
 <a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="jahangiru837@gmail.com" />
 </a>
 <a href="https://github.com/umerjahangir">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://github.com/umer824" />
 </a>
 <a href="https://instagram.com/YOUR_INSTAGRAM">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://www.instagram.com/umermemon_00/" />
 </a>
 
 <br/><br/>
@@ -49,7 +49,7 @@ const umer = {
 - 🏫 Trained at **SMIT (Saylani Mass IT Training)** — one of Pakistan's largest tech training programs
 - 🚀 Focused on writing maintainable code that solves real-world problems
 - 🤝 Open to **junior / entry-level roles** and freelance collaborations
-- 📬 Reach me: **[your.email@example.com](mailto:your.email@example.com)**
+- 📬 Reach me: **[jahangiru837@gmail.com](mailto:jahangiru837@gmail.com)**
 
 ---
 
@@ -163,14 +163,6 @@ const umer = {
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=umerjahangir&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Graph" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=umerjahangir&theme=tokyonight&no-frame=true&column=7&margin-w=4" width="95%" alt="GitHub Trophies" />
 </div>
 
 ---
