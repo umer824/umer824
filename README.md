@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/umerjahangir/umerjahangir/main/assets/banner.jpg" alt="Umer Jahangir — Full Stack Developer" width="100%" />
+<img src="file:///C:/Users/UMER/Downloads/Orange%20Strategy%20Photo%20Head%20of%20Marketing%20LinkedIn%20Banner%20(1).png" alt="Umer Jahangir — Full Stack Developer" width="100%" />
 
 <br/>
 
