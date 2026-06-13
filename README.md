@@ -70,7 +70,7 @@ const umer = {
 - 🏫 Trained at **SMIT (Saylani Mass IT Training)** — one of Pakistan's largest tech training programs
 - 🚀 Focused on writing maintainable code that solves real-world problems
 - 🤝 Open to **junior / entry-level roles** and freelance collaborations
-- 📬 Reach me: **[your.email@example.com](mailto:your.email@example.com)**
+- 📬 Reach me: **[jahangiru837@gmail.com](mailto:your.jahangiru837@gmail.com)**
 
 ---
 
