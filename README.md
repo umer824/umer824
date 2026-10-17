@@ -1,196 +1,168 @@
-<div align="center">
-  <img src="file:///C:/Users/UMER/Downloads/Orange%20Strategy%20Photo%20Head%20of%20Marketing%20LinkedIn%20Banner%20(1).png" />
-  
-  <h1>Hi 👋, I'm Umer Jahangir</h1>
-  
-  <p>
-    <strong>Full Stack Developer</strong> | <strong>Web Designer</strong> | <strong>Graphic Designer</strong> | Lifelong Learner
-  </p>
-  <img width="1584" height="396" alt="Orange Strategy Photo Head of Marketing LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/9c411108-0513-4658-bf53-b44e07984a22" />
+# 👋 Hi, I'm Umer Jahangir
 
-  <p>
-    Passionate developer from <strong>Pakistan 🇵🇰</strong> crafting modern, responsive, and user-centric web applications.
-  </p>
+### Full Stack Developer | Web Designer | Graphic Designer
 
-<br/>
+Building modern digital experiences through code, creativity, and continuous learning. 🇵🇰
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+%7C+Vue.js+%7C+GraphQL+%7C+REST+APIs;Building+Modern+Web+Experiences;Trained+at+SMIT+%E2%80%94+Karachi%2C+Pakistan+%F0%9F%87%B5%F0%9F%87%B0)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9c411108-0513-4658-bf53-b44e07984a22" alt="Umer Jahangir - Developer Banner" width="100%" />
+</p>
 
-<br/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/umer-jahangir-8b3583328/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/umer824">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.instagram.com/umermemon_00/">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:jahangiru837@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-<a href="https://www.linkedin.com/in/umer-jahangir-8b3583328/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:YOUR_EMAIL@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/umer824">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/umermemon_00/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=umerjahangir&color=6C63FF&style=flat-square&label=Profile+Views)
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=F97316&center=true&vCenter=true&width=650&lines=Turning+Ideas+Into+Digital+Experiences;Learning%2C+Building%2C+Improving;Web+Development+%2B+Creative+Design;One+Project+At+A+Time+%F0%9F%9A%80" alt="Animated introduction" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 🌱 Currently building full-stack applications with the **MERN Stack**
-- 💻 Passionate about clean code, beautiful UI/UX, and solving real-world problems
-- 🎨 Experienced in **Graphic Design**, Logo Design, and Branding
-- 🚀 On a journey to become a professional Full Stack Developer
-- 🎯 Goal: Create impactful digital solutions and contribute to the open-source community
-- 📍 Based in **Karachi, Pakistan**
-## 👨‍💻 About Me
+I'm a developer and designer from **Karachi, Pakistan**, passionate about building useful web experiences that combine functionality with thoughtful design.
 
-```javascript
-const umer = {
-  name:       "Umer Jahangir",
-  role:       "Junior Full Stack Developer",
-  training:   "Saylani Mass IT Training (SMIT) — Karachi",
-  stack:      ["React", "Vue.js", "Node.js", "Express.js", "MongoDB", "PostgreSQL"],
-  interests:  ["Clean Code", "Modern UI/UX", "Open Source", "Graphic Design"],
-  currentFocus: "Building production-ready full-stack applications",
-  goal:       "Contribute to impactful products and grow as an engineer",
-  location:   "Karachi, Pakistan 🇵🇰",
-};
-```
+- 💻 Learning and building with modern web technologies.
+- 🎨 Interested in graphic design, UI/UX, branding, and visual storytelling.
+- 🧩 Enjoy turning ideas and real-world problems into digital solutions.
+- 📚 Continuously improving my programming and problem-solving skills.
+- 🏫 Learning through Saylani Mass IT Training (SMIT) and independent practice.
+- 🤝 Open to collaborating on projects, connecting with developers, and exploring entry-level opportunities.
 
-- 🌱 Actively building full-stack projects with the **MERN Stack** and exploring **Vue.js + GraphQL**
-- 🎨 Experienced in **UI/UX Design**, Logo Design, and Visual Branding
-- 🏫 Trained at **SMIT (Saylani Mass IT Training)** — one of Pakistan's largest tech training programs
-- 🚀 Focused on writing maintainable code that solves real-world problems
-- 🤝 Open to **junior / entry-level roles** and freelance collaborations
-- 📬 Reach me: **[jahangiru837@gmail.com](mailto:your.jahangiru837@gmail.com)**
+**My philosophy:** Learn by building, improve through feedback, and create things that make a difference.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies & Tools
 
-### Frontend
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,figma&theme=dark" alt="Technology icons" />
+</p>
 
-### Backend
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+### Web Development
 
-### Databases
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+| Category | Technologies |
+|---|---|
+| Frontend | HTML5, CSS3, JavaScript |
+| UI Development | Responsive Design, UI/UX Fundamentals |
+| Currently Exploring | React, TypeScript, Node.js, Express.js |
+| Tools | Git, GitHub, VS Code, Postman |
+| Creative Design | Figma, Graphic Design, Logo Design, Branding |
 
-### Tools & Platforms
-### 🔧 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+*I keep my learning journey active and focus on strengthening fundamentals before moving to more advanced concepts.*
 
 ---
 
-## 🚧 Featured Projects
+## 💡 Featured Projects
+
+Here are the projects I want to showcase as I continue developing my portfolio. Replace the repository placeholders with your actual project links and update the descriptions to match each project's current implementation.
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>🤖 DiagramAI</h3>
-      <p>AI-powered diagramming tool built with React, integrating the Claude API and Mermaid.js for intelligent diagram generation — inspired by Eraser.io.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Claude_API-6C63FF?style=flat-square" />
-        <img src="https://img.shields.io/badge/Mermaid.js-FF3670?style=flat-square" />
-      </p>
-      <a href="https://github.com/umerjahangir/YOUR_REPO">View Project →</a>
+      <p>An AI-powered diagramming concept designed to help users transform written ideas into clear, structured diagrams.</p>
+      <p><strong>Planned technologies:</strong> React, AI API, Mermaid.js</p>
+      <a href="https://github.com/umer824">Explore my repositories →</a>
     </td>
     <td width="50%" valign="top">
       <h3>💬 NexusChat</h3>
-      <p>Enterprise chatbot landing page with RTL-aware design, built for MENA audiences. Features a modern glassmorphism aesthetic with full responsiveness.</p>
-      <p>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      </p>
-      <a href="https://github.com/umerjahangir/YOUR_REPO">View Project →</a>
+      <p>A modern chatbot landing-page concept featuring responsive layouts, clean typography, and a polished user interface.</p>
+      <p><strong>Technologies:</strong> HTML, CSS, JavaScript</p>
+      <a href="https://github.com/umer824">Explore my repositories →</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>✋ Air Draw</h3>
-      <p>Browser-based air drawing application using MediaPipe Hands for real-time gesture recognition. Draw in the air using your webcam — no touch required.</p>
-      <p>
-        <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Canvas_API-E34F26?style=flat-square" />
-      </p>
-      <a href="https://github.com/umerjahangir/YOUR_REPO">View Project →</a>
+      <p>An interactive browser-based drawing concept that explores touch-free drawing through webcam hand gestures.</p>
+      <p><strong>Planned technologies:</strong> JavaScript, MediaPipe, Canvas API</p>
+      <a href="https://github.com/umer824">Explore my repositories →</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🌿 Verdant SaaS</h3>
-      <p>Dark luxury SaaS landing page with nature-meets-technology glassmorphism aesthetic, bento grid layout, and cinematic visual storytelling.</p>
-      <p>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      </p>
-      <a href="https://github.com/umerjahangir/YOUR_REPO">View Project →</a>
+      <h3>🌿 Verdant</h3>
+      <p>A nature-inspired digital product landing-page concept with a dark visual theme, modern layouts, and subtle interactions.</p>
+      <p><strong>Technologies:</strong> HTML, CSS, JavaScript</p>
+      <a href="https://github.com/umer824">Explore my repositories →</a>
     </td>
   </tr>
 </table>
 
----
-
-## 🌱 Currently Learning
-
-- Advanced JavaScript & TypeScript
-- React Ecosystem (Next.js, Redux, Tailwind CSS)
-- Backend Architecture & API Design
-- Database Optimization & System Design
-- Full Stack Application Deployment (Docker, Vercel, AWS)
-| Area | Technologies |
-|------|-------------|
-| 📘 Language Depth | Advanced JavaScript, TypeScript |
-| ⚛️ React Ecosystem | Next.js, Redux Toolkit, Zustand |
-| 🏗️ Architecture | Clean Architecture, System Design, API Design Patterns |
-| 🗃️ Database | Query Optimization, Indexing, Relational + NoSQL |
-| ☁️ DevOps & Deploy | Docker, Vercel, Railway, AWS basics |
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=umerjahangir&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Graph" />
-</div>
-
----
-## 💬 A Thought I Work By
-
-> *"Junior developers look for solutions. Senior developers look for tradeoffs. I'm learning to see both."*
+> **Note:** These project entries should describe work you have actually built before presenting them as completed projects. If they're still ideas, label them as concepts or replace them with finished repositories.
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="95%" />
-</div>
+## 📚 My Learning Journey
 
-<div align="center">
-  <strong>Thanks for visiting my profile! ✨</strong><br>
-  Feel free to explore my repositories and connect with me!
-  <strong>Thanks for stopping by! 🙌</strong><br/>
-  <sub>Feel free to explore my repos, open an issue, or just say hi — I'm always up for a conversation.</sub>
-</div>
+I'm focused on developing strong fundamentals and gradually expanding my capabilities as a full-stack developer.
+
+- JavaScript fundamentals, functions, loops, and DOM manipulation.
+- Responsive layouts and clean, maintainable CSS.
+- React components, props, state, and application structure.
+- TypeScript fundamentals.
+- Backend development and REST API integration.
+- Database fundamentals and application deployment.
+- UI/UX principles and visual design.
+
+---
+
+## 📊 GitHub Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=umer824&show_icons=true&theme=transparent&hide_border=true&title_color=F97316&icon_color=F97316&rank_icon=github" alt="GitHub statistics" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umer824&layout=compact&theme=transparent&hide_border=true&title_color=F97316" alt="Most-used programming languages" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=umer824&theme=transparent&hide_border=true&ring=F97316&fire=F97316&currStreakLabel=F97316" alt="GitHub contribution streak" width="75%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=umer824&bg_color=00000000&color=F97316&line=F97316&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity" width="100%" />
+</p>
+
+---
+
+## 🎯 Goals
+
+- Build practical projects that solve real problems.
+- Become confident in frontend and backend development.
+- Develop a strong portfolio through consistent hands-on practice.
+- Combine engineering with creative design to build better user experiences.
+- Contribute to open-source projects and collaborate with other developers.
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always happy to connect with fellow developers, designers, founders, and people who enjoy building meaningful digital products.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/umer-jahangir-8b3583328/">
+    <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-F97316?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+  <a href="mailto:jahangiru837@gmail.com">
+    <img src="https://img.shields.io/badge/Send_Me_an_Email-181717?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" />
+  </a>
+</p>
+
+<p align="center">
+  <i>"Great things are built one small improvement at a time."</i>
+</p>
+
+<p align="center">
+  Thanks for visiting my profile! ⭐
+  <br />
+  <sub>Keep learning. Keep building. Keep creating.</sub>
+</p>
